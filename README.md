@@ -1,5 +1,5 @@
 # Cosmological Parameters, Predictions, and Dark Matter: A Dive into Halo Mass Function Analytics
-Welcome to my summer research project on dark matter. This repository provides a collection of Python notebooks that dive deep into analytics of the halo mass function with an emphasis on the effects of various cosmological parameters and performing analytical fits.
+Welcome to my summer research project at Canadian Institute for Theoretical Astrophysics (CITA) at University of Toronto. This project is about classifying and eliminating dark matter candidates based on observables including halo mass function and power spectrum. This repository provides a collection of Python notebooks that dive deep into analytics of the halo mass function with an emphasis on the effects of various cosmological parameters and performing analytical fits.
 ## Notebooks:
 ### power_spectrum.ipynb
 
